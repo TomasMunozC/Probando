@@ -1,0 +1,36 @@
+
+.marker{
+    height: 9.2px;
+    width: 6.13px;
+}
+
+.robotoMid{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.robotoLight{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.robotoGrey{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+}
+
+.centro{
+    padding-left: 20px;
+}
+hr{
+    color: #707070;
+}
+
+.imagen{
+    height: 24px !important;
+    width: 100px !important; 
+}
